@@ -1,2 +1,2 @@
-# instalogin-to-id-converter
-Скрипт конвертации Instagram-логинов в id и наоборот.
+# Username-to-id-instagram
+Скрипт конвертации Instagram Username в User ID и наоборот.
